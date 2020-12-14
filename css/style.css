@@ -1,0 +1,37 @@
+.section-one{
+   background-color: rgb(64, 64, 194);
+   color:white;
+   padding: 10px;
+   text-transform: capitalize !important;
+   border: 5px solid blue;
+}
+
+.sec{
+   background-color: aquamarine;
+   padding: 10px;
+   max-width:100%;
+   display: flex;
+}
+
+.left{
+   width: 30%;
+   
+}
+
+.right{
+   width: 70%;
+   
+}
+
+.col{
+   width: 24%;
+}
+
+.col-2{
+   width:4%;
+}
+
+.img-res{
+   width: 100%;
+   height: auto;
+}
